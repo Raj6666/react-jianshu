@@ -1,0 +1,1 @@
+export const SHOW_HTTP_REQUEST_ERROR = 'http/show_http_request_error';

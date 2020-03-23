@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [
+            {
+                "id": 1,
+                "title": "社会热点",
+                "imgUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3350346709,2469248744&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 2,
+                "title": "手绘",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=641865039,3160768445&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 3,
+                "title": "教育",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=641865039,3160768445&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 4,
+                "title": "竞技体育",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=641865039,3160768445&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 5,
+                "title": "侦探小说",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=641865039,3160768445&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 6,
+                "title": "灵异故事",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=641865039,3160768445&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 7,
+                "title": "员工培训",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=641865039,3160768445&fm=26&gp=0.jpg"
+            }
+        ],
+        "articleList": [
+            {
+                "id": 1,
+                "title": "一个好的读书app，能够让你受益匪浅。",
+                "desc": "如果你喜欢读书，那么请看这里。 流书，给你完全不同的读书体验。 没有读实体书时的不方便，没有读全本书时的疲倦，没有中途收费的不要脸，也没有读完即...",
+                "imgUrl": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2266767871,3390589599&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 2,
+                "title": "细读完以下15篇小说，你会开始知道经典是什么",
+                "desc": "成为小说家”为系列课程，目前上线的是课程的第一阶段。 本阶段课程共分叙述者、人物、情节、对话、情绪与意境五大板块，共计16堂课，全部为视频教学...",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3957890033,3530421409&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 3,
+                "title": "凝滞的生活，一旦被打开，便幸福四溢",
+                "desc": "多年前，看过一部日本电影《幸福的彼端》（又名《周围的事》），让我一直念念不忘。 电影讲述的是一对夫妻近十年的生活。",
+                "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=256320077,199816647&fm=26&gp=0.jpg"
+            },
+            {
+                "id": 4,
+                "title": "简书上，你想要的干货，这里全部都有",
+                "desc": "文/学堂菌 嗯，我就是一个卖课的小哥儿。老板指哪儿，我打哪儿。 最近寻思着感恩节也到了，把大学堂里的干货课都给大家伙儿备上吧。 有需要的请戳如下...",
+                "imgUrl": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2904590654,2193973065&fm=26&gp=0.jpg"
+            }
+        ]
+    }
+}
